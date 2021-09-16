@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="reddish">#df502c</color>
+    <color name="pinkish">#e1a89a</color>
+
+    <color name="whiteish">#f6f6ed</color>
+
+    <color name="yellowish">#aaaa00</color>
+    <color name="brownish">#746f0b</color>
+
+    <color name="purpleish">#8904c5</color>
+    <color name="lightpurple">#b376ce</color>
+
+    <color name="blueish">#423ad4</color>
+    <color name="greenish">#077c0f</color>
+    <color name="black">#000000</color>
+
+</resources>
